@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jai Mehta — a Full-Stack Software Engineer passionate about building impactful products and scalable systems. I specialize in crafting clean, efficient solutions across the stack using technologies like **React.js**, **Node.js**, **Java/Spring Boot**, **Flask**, and **MongoDB**. I'm currently working at **Deutsche Bank** and building tools that make developers’ lives easier, like [**NeatLeet**](https://chromewebstore.google.com/detail/neatleet/jcedgkkdknkjbmgbcpipnbdmoblilnmd), a Chrome extension that connects LeetCode problems to NeetCode solutions with a single click.
+I'm Jai Mehta — a Full-Stack Software Engineer passionate about building impactful products and scalable systems. I specialize in crafting clean, efficient solutions across the stack using technologies like **React.js**, **Node.js**, **Java/Spring Boot**, **Flask**, and **MongoDB**. I'm currently working at **C3.ai** and building tools that make developers’ lives easier, like [**NeatLeet**](https://chromewebstore.google.com/detail/neatleet/jcedgkkdknkjbmgbcpipnbdmoblilnmd), a Chrome extension that connects LeetCode problems to NeetCode solutions with a single click.
 
 - 🔭 I’m currently working on Chrome Extensions, Backend APIs, and Full-Stack Web Apps.
 - 🌱 Learning advanced **system design** and scaling distributed systems.
